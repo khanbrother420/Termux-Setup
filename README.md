@@ -1,2 +1,2 @@
-cd Termux-Setup
-bash khan.sh
+$cd Termux-Setup
+$bash khan.sh
