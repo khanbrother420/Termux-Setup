@@ -117,7 +117,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'RJ-SHUVO' |lolcat
+figlet -f slant 'KHAN-BROTHER' |lolcat
 echo
 echo
 echo 
